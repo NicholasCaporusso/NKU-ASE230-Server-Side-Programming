@@ -1,0 +1,1 @@
+An example that describes how to use static classes to handle CMS workflow actions.
